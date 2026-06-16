@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #f7f1de;
+    --color-navbar: hsl(46, 61%, 88%);
+
+  --color-card: #B0BA99;
+  --color-accent: #9D6638;
+  --color-text: #4E220F;
+
+  --font-display: "Poppins";
+}
